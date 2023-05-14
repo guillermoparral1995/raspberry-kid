@@ -1,0 +1,13 @@
+nav {
+  display: flex;
+  border: 1px solid #ccc;
+  justify-content: space-around;
+}
+
+.nav-tab {
+  display: inline-block;
+}
+
+.social-media-icon {
+  width: 24px;
+}
